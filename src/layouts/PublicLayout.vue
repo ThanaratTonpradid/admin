@@ -1,7 +1,6 @@
 <template>
   <div class="layout">
-    <header>header</header>
+    <div>sidebar</div>
     <router-view />
-    <footer>footer</footer>
   </div>
 </template>
